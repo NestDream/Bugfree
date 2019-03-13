@@ -1,6 +1,4 @@
-# 电子光电码盘生产管理系统
+# Online Judge
 
-erp 之类的
-
-
-查看：[详细文档](https://dependency-inject.github.io/an-erp/)
+项目使用文档和开发记录
+文档内容在docs文件夹中修改
